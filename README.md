@@ -1,4 +1,4 @@
-# OpenAI Structured Output API
+# Compliance Check API Using OpenAI Structured Output
 A web-based API service built and designed to analyze and validate website content for compliance with specific policies, using OpenAI's latest structured output feature.
 
 # Components
